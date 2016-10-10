@@ -17,15 +17,15 @@ module load fsl/5.0.9	# Will load FSL in ABEL (check using module avail).
 
 source $FSLDIR/etc/fslconf/fsl.sh
 
-DATASET="/usit/abel/u1/pedermi/Opioidfmri/checkerboard/FEAT/firstlevel/ /usit/abel/u1/pedermi/Opioidfmri/checkerboard/scripts/FEAT_second/MORvsPLA_simple.fsf"
+DATASET="/usit/abel/u1/pedermi/Opioidfmri/checkerboard/FEAT/firstlevel/Session*/*.feat /usit/abel/u1/pedermi/Opioidfmri/checkerboard/scripts/FEAT_second/MORvsPLA_simple.fsf"
 OUTFILE=$SCRATCH/MORvsPLA_simple.feat
 
 cp -r $DATASET $SCRATCH
 cd $SCRATCH
 chkfile $OUTFILE
 
-mkdir $OUTFILE
-ls > $OUTFILE/data.txt
-echo "SCRATCH=$SCRATCH OUTFILE=$OUTFILE TASK_ID=$TASK_ID" > $OUTFILE/variables.txt
+#mkdir $OUTFILE
+#ls > $OUTFILE/data.txt
+#echo "SCRATCH=$SCRATCH OUTFILE=$OUTFILE TASK_ID=$TASK_ID" > $OUTFILE/variables.txt
 
 feat MORvsPLA_simple.fsf
