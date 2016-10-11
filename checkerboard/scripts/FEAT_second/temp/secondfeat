@@ -3,15 +3,15 @@
 ##Notes
 #	
 
-#SBATCH --job-name=MORvsPLA_simple
+#SBATCH --job-name=secondfeat
 #SBATCH --account=uio
 #SBATCH --time=60:0:0
 #SBATCH --mem-per-cpu=4G
 
 source /cluster/bin/jobsetup
 
-#SBATCH --output=MORvsPLA_simple
-#SBATCH --error=MORvsPLA_simple_error
+#SBATCH --output=secondfeat
+#SBATCH --error=secondfeat_error
 
 module purge	# clear any inherited modules
 set -o errexit	# exit on errors
@@ -20,8 +20,8 @@ module load fsl/5.0.9	# Will load FSL in ABEL (check using module avail).
 
 source $FSLDIR/etc/fslconf/fsl.sh
 
-DATASET="/usit/abel/u1/pedermi/Opioidfmri/checkerboard/FEAT/firstlevel/Session*/*.feat /usit/abel/u1/pedermi/Opioidfmri/checkerboard/scripts/FEAT_second/MORvsPLA_simple.fsf"
-OUTFILE=$SCRATCH/MORvsPLA_simple.feat
+DATASET="/usit/abel/u1/pedermi/Opioidfmri/checkerboard/FEAT/firstlevel/Session*/501.feat /usit/abel/u1/pedermi/Opioidfmri/checkerboard/FEAT/firstlevel/Session*/502.feat /usit/abel/u1/pedermi/Opioidfmri/checkerboard/scripts/FEAT_second/temp/FEAT_temp.fsf"
+OUTFILE=$SCRATCH/secondfeat.feat
 
 cp -r $DATASET $SCRATCH
 cd $SCRATCH
@@ -34,4 +34,4 @@ echo "SCRATCH=$SCRATCH OUTFILE=$OUTFILE TASK_ID=$TASK_ID" > $OUTFILE/variables.t
 sed -ie "s|OUTFILE|${OUTFILE}|g" firstFEAT.fsf #Replace "OUTFILE" with the path of the actual OUTFILE directory. 
 sed -ie "s|SCRATCH|${SCRATCH}|g" firstFEAT.fsf #Replace "SCRATCH" with the path of the actual SCRATCH directory. 
 
-feat MORvsPLA_simple.fsf
+feat FEAT_temp.fsf

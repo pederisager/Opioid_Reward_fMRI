@@ -27,8 +27,8 @@ chkfile $OUTFILE
 #ls > $OUTFILE/data.txt
 #echo "SCRATCH=$SCRATCH OUTFILE=$OUTFILE TASK_ID=$TASK_ID" > $OUTFILE/variables.txt
 
-sed -ie "s|OUTFILE|${OUTFILE}|g" firstFEAT.fsf
-sed -ie "s|SCRATCH|${SCRATCH}|g" firstFEAT.fsf
+sed -ie "s|OUTFILE|${OUTFILE}|g" firstFEAT.fsf #Replace "OUTFILE" with the path of the actual OUTFILE directory. 
+sed -ie "s|SCRATCH|${SCRATCH}|g" firstFEAT.fsf #Replace "SCRATCH" with the path of the actual SCRATCH directory. 
 #sed -ie "s|featwatcher_yn) 1|featwatcher_yn 0|g" firstFEAT.fsf #test if opening html is crashing script" 
 
 #cp firstFEAT.fsf $OUTFILE
