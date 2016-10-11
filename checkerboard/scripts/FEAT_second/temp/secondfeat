@@ -20,7 +20,7 @@ module load fsl/5.0.9	# Will load FSL in ABEL (check using module avail).
 
 source $FSLDIR/etc/fslconf/fsl.sh
 
-DATASET="/usit/abel/u1/pedermi/Opioidfmri/checkerboard/FEAT/firstlevel/Session*/501.feat /usit/abel/u1/pedermi/Opioidfmri/checkerboard/FEAT/firstlevel/Session*/502.feat /usit/abel/u1/pedermi/Opioidfmri/checkerboard/scripts/FEAT_second/temp/FEAT_temp.fsf"
+DATASET="/usit/abel/u1/pedermi/Opioid_Reward_fMRI/checkerboard/FEAT/firstlevel/Session*/501.feat /usit/abel/u1/pedermi/Opioid_Reward_fRMI/checkerboard/FEAT/firstlevel/Session*/502.feat /usit/abel/u1/pedermi/Opioid_Reward_fMRI/checkerboard/scripts/FEAT_second/temp/FEAT_temp.fsf"
 OUTFILE=$SCRATCH/secondfeat.feat
 
 cp -r $DATASET $SCRATCH
