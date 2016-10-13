@@ -33,9 +33,9 @@ cp -r $FEAT_FILE $SCRATCH
 cd $SCRATCH
 chkfile $OUTFILE
 
-mkdir $OUTFILE
-ls > $OUTFILE/data.txt
-ls Session1/501.feat >> $OUTFILE/data.txt
+#mkdir $OUTFILE
+#ls > $OUTFILE/data.txt
+#ls Session1/501.feat >> $OUTFILE/data.txt
 
 
 sed -ie "s|OUTFILE|${OUTFILE}|g" FEAT_temp.fsf #Replace "OUTFILE" with the path of the actual OUTFILE directory. 
