@@ -16,6 +16,9 @@ for (subject in ptpinfo$ptp) {
     
     dataset$subject <- subject
     dataset$session <- session
+    dataset$datanobase <- dataset$V2 - mean(dataset$V2[dataset$V1 <= 0.4])
+    
+    names(dataset) <- c("time", "data", "myst1", "myst2", "mystdata", "drug", "subject", "session", "datanobase")
     
     psdata <- rbind(psdata, dataset) # 
     
@@ -26,4 +29,4 @@ for (subject in ptpinfo$ptp) {
   }
 }
 
-names(psdata) <- c("time", "data", "myst1", "myst2", "mystdata", "drug", "subject", "session")
+
