@@ -3,6 +3,14 @@ Simple visual task designed to measure the potential effect of morphine on globa
 
 log:
 
+09.11.16 
+Auto deweighting timed out (used more than 24 hours to complete). 
+Deleted and resubmitted autodw_minus532 gfeat with doubled time limit.  
+
+07.11.16
+Put all MORvsPLA gfeats in common folder, to prevent clutter during analysis exploration. 
+Ran MORvsPLA gfeat excluding 532 and turing on auto deweighting. 
+
 14.10.16
 Completed debugging of secondlevel-FEAT test script for Abel.
 Updated main MORvsPLA_simple script.
