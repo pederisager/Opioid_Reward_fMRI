@@ -49,16 +49,19 @@ DATASET="</absoulute/path/to/$TASK_ID/data1.file /absoulute/path/to/$TASK_ID/dat
 
 OUTFILE=$SCRATCH/$TASK_ID.feat	#Denotes what will be copied back from SCRATCH once the analysis is done, or an error occurs. 
 
-cp $DATASET $SCRATCH	#Copies data to SCRATCH
+tar -czvf dataset.tar $DATASET #Delete this line if your dataset already is a .tar file.
+
+cp dataset.tar $SCRATCH	#Copies data to SCRATCH
 cd $SCRATCH		#Changes working directory to SCRATCH
 chkfile $OUTFILE	#Decides what will be copied back once job is completed
 
+tar -xzvf dataset.tar
 
-sed -ie "s|OUTFILE|${OUTFILE}|g" firstFEAT.fsf #Replace "OUTFILE" with the path of the actual OUTFILE directory inside your design.fsf. 
-sed -ie "s|SCRATCH|${SCRATCH}|g" firstFEAT.fsf #Replace "SCRATCH" with the path of the actual SCRATCH directory inside your design.fsf. 
+sed -ie "s|OUTFILE|${OUTFILE}|g" <featfile>.fsf #Replace "OUTFILE" with the path of the actual OUTFILE directory inside your design.fsf. 
+sed -ie "s|SCRATCH|${SCRATCH}|g" <featfile>.fsf #Replace "SCRATCH" with the path of the actual SCRATCH directory inside your design.fsf. 
 
 ######################################################
 
 #Finally, you can run your desired design script:
 
-feat firstFEAT.fsf
+feat <featfile>.fsf

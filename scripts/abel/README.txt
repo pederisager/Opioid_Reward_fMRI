@@ -16,6 +16,11 @@ account provided by hpc-drift@usit.uio.no.
 If you are able to do analyses using Abel, feel free to
 use the scripts provided in this directory.
 
+Abel works really well with large files, but not so well
+with very many small files. That is why you will see 
+many feat directories etc contained within tar archives
+here.
+
 For detailed information about Abel and how to use it,
 consult:
 ABEL_USERGUIDE.docx
