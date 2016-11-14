@@ -23,13 +23,14 @@ module load fsl/5.0.9	# Will load FSL in ABEL (check using module avail).
 
 source $FSLDIR/etc/fslconf/fsl.sh
 
-DATASET="/usit/abel/u1/pedermi/Opioid_Reward_fMRI/checkerboard/FEAT/firstlevel/Session* /usit/abel/u1/pedermi/Opioid_Reward_fMRI/checkerboard/scripts/FEAT_secondlvl/PLA_simple.fsf"
+DATASET="/usit/abel/u1/pedermi/Opioid_Reward_fMRI/checkerboard/FEAT/firstlevel/firstlevelfeats.tar /usit/abel/u1/pedermi/Opioid_Reward_fMRI/checkerboard/scripts/FEAT_secondlvl/PLA_simple.fsf"
 OUTFILE=$SCRATCH/PLA_simple.gfeat
 
 cp -r $DATASET $SCRATCH
 cd $SCRATCH
 chkfile $OUTFILE
 
+tar -xf firstlevelfeats.tar
 
 sed -ie "s|OUTFILE|${OUTFILE}|g" PLA_simple.fsf #Replace "OUTFILE" with the path of the actual OUTFILE directory. 
 sed -ie "s|SCRATCH|${SCRATCH}|g" PLA_simple.fsf #Replace "SCRATCH" with the path of the actual SCRATCH directory. 

@@ -6,8 +6,7 @@
 !*README*
 !*.fsf
 !**/scripts/**
-
+!**/slurms/**
 
 #...Even if they are in subdirectories...
 !*/
-.Rproj.user

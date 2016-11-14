@@ -3,6 +3,11 @@ Simple visual task designed to measure the potential effect of morphine on globa
 
 log:
 
+14.11.16
+Incorporated three level analysis in Abel
+Ran thirdlevel with autmatic outlier dewighting - Still no signal above threshold whole brain. 
+Deleted some temp-folders and redundant files.
+
 09.11.16 
 Auto deweighting timed out (used more than 24 hours to complete). 
 Deleted and resubmitted autodw_minus532 gfeat with doubled time limit.  
