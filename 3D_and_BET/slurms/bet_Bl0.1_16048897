@@ -1,0 +1,16 @@
+Starting job 16048897 ("16048859.535") on c8-14 at Wed Nov 30 17:35:57 CET 2016
+
+Currently Loaded Modulefiles:
+  1) fsl/5.0.9
+
+Job script resource usage:
+       JobID  MaxVMSize     MaxRSS 
+------------ ---------- ---------- 
+16048897.ba+   1094736K    867248K 
+
+Job step resource usage:
+       JobID    JobName  AllocCPUS  MaxVMSize     MaxRSS    Elapsed ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- -------- 
+16048897     16048859.+          1                         00:06:51      0:0 
+
+Job 16048897 ("16048859.535") completed on c8-14 at Wed Nov 30 17:42:47 CET 2016

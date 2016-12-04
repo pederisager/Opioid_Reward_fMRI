@@ -1,0 +1,49 @@
+#!/bin/bash
+
+##Notes
+### Notes:
+#
+#This is a job script for Abel. Hashtagged lines starting with SBATCH are not commented out - they are instructions to the computer cluster. 
+# 
+#This is a general script recipe. To run for your desired data, edit every section enclosed in <> to something relevant for your analysis. This includes <> enclosed sections in comments.
+
+
+######################################################
+
+#This section contains settings for the Abel cluster. You can check their functions by searching in the Abel userguide, or by going to the Abel homepage on UiO's webpages.
+# These setting-commands will only run if they are executed in the very beginning of the script.
+
+#SBATCH --account=uio
+#SBATCH --time=0:30:0
+#SBATCH --mem-per-cpu=4G
+#SBATCH --qos=lowpri
+#SBATCH --output=bet_Bl0.1_%j
+#SBATCH --error=bet_Bl0.1_error_%j
+
+
+######################################################
+
+#This section sets up the Abel environment so that your job can run.
+
+
+source /cluster/bin/jobsetup	#Sets up the variables that Abel needs to function. 
+
+module purge	# clear any inherited modules
+set -o errexit	# exit on errors
+
+module load fsl/5.0.9	#Will load FSL version 5.0.9 in ABEL. You can change version by editing /5.0.9 (check available modules by typing module avail in a terminal connected to Abel).
+
+source $FSLDIR/etc/fslconf/fsl.sh	#Sets up the variables that FSL needs to function. 
+
+
+######################################################
+
+#This section sets your data up for analysis in the Abel SCRATCH directory.
+
+cd $TASK_ID
+
+echo "bet 3DRR_noneck 3DRR_noneck_brain -B -f 0.1" > betcommand.txt
+
+bet 3DRR_noneck 3DRR_noneck_brain -B -f 0.1
+
+
