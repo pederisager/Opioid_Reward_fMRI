@@ -16,6 +16,8 @@ LOG OF MISSING/CORRUPT DATA
 - Session 2: Not tested.
 
 504
+- 3D image is skewed
+
 505
 506
 

@@ -4,9 +4,20 @@ Raw structural MRI images
 BET'ed structural MRI images
 
 3D-image name logic:
-RR = reoriented
-*_brain = skull/head removed
+RR =		reoriented
+*_noneck =	neck region removed in fslroi
+*_brain =	skull/head removed
 
 
-bet recipe for the brain extraction: 
-bet 3D.nii.gz 3DRR.nii.gz -f 0.15 -g -0.15 -RB
+Main bet recipe for the brain extraction: 
+bet -B -f 0.1	based on BET-testing paper by Popescu et al. (2012)
+
+log:
+03.12.16
+Final BET of all images. Logged in detail in quality_log.
+Superfluous images such as masks deleted.
+
+29.11.16
+Running bet -B -f 0.1 on all 3D images in abel.
+Scripts for this stored in scripts/ as bet_submitscript and bet_workerscript
+Superflous files should be deleted after successfull bets. 

@@ -16,6 +16,9 @@ Only fMRI files session 1 from
 
 
 log:
+28.11.16
+Data was mysteriously deleted.
+Reloaded the raw data to folder as tar archive.
 
 06.10.16 
 Created the folder
