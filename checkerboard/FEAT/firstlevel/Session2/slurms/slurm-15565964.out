@@ -1,0 +1,16 @@
+Starting job 15565964 ("15565872.605") on c60-6 at Sun Sep 11 20:58:01 CEST 2016
+
+Currently Loaded Modulefiles:
+  1) fsl/5.0.9
+
+Job script resource usage:
+       JobID  MaxVMSize     MaxRSS 
+------------ ---------- ---------- 
+15565964.ba+   1747420K   1369765K 
+
+Job step resource usage:
+       JobID    JobName  AllocCPUS  MaxVMSize     MaxRSS    Elapsed ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- -------- 
+15565964     15565872.+          1                         00:18:15      0:0 
+
+Job 15565964 ("15565872.605") completed on c60-6 at Sun Sep 11 21:16:16 CEST 2016

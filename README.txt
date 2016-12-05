@@ -54,12 +54,9 @@ computer cluster. See scripts/abel/README.txt for
 further information. 
 
 RSYNC
-rsync is a quite powerful and plexible way of up/down-
-loading files to/from the Abel cluster. Documentation
-of this program can be found online. Be very careful 
-when using this feature however, as it can potentially
-override important information. To be safe, try to 
-only rsync the specific files you want, and be sure 
-that you don't rsynd the hidden .git folder.
+rsync is a quite powerful and plexible way of syncronizing file systems. Documentation of this program can be found online. Be very careful when using this feature however,
+as it can potentially override important information. 
+To be safe, try to only rsync the specific files you want,
+and be sure that you don't rsynd the hidden .git folder.
 
 ######################################################
