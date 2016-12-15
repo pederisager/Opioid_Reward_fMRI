@@ -63,6 +63,7 @@ LOG OF MISSING/CORRUPT DATA
 533
 534
 535
+- Session 1 - MID: MID .edat from scanner performed unconvnetionally. 
 536
 601
 602

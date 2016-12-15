@@ -5,6 +5,7 @@
 !.gitignore
 !*README*
 !*.fsf
+!*.R
 !**/scripts/**
 !**/slurms/**
 
