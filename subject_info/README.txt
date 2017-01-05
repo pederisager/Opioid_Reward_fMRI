@@ -100,3 +100,11 @@ LOG OF MISSING/CORRUPT DATA
 630
 631
 632
+
+###########################
+           LOG
+###########################
+
+02.01.17
+- Added menstrual-cycle info to subject_infosheet
+	- Cycle == Follicular IF "days since" > cycle/2 

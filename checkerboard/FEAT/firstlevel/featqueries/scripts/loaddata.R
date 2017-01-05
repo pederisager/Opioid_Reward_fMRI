@@ -1,14 +1,28 @@
 
+## Set the name of folders containing the featquery of interest
+
+queryfolder <- "featquery_V1_L"
+
+## Load subject information and exclude subects
+
+subinfo <- read.csv(file ='D:/Dropbox/jobb/hedfarmlab/Opioid_Reward_fMRI/subject_info/subject_infosheet.csv', header = TRUE, sep = ",")
+
+excludedsubs <- c(503, 507, 508, 514, 530, 617)
+subinfo <- subinfo[!(subinfo$subject %in% excludedsubs),]
+
+
+## Load data for all subjects and combine in 'psdata'
+
 psdata <- data.frame()
 
-for (subject in ptpinfo$ptp) {
+for (subject in subinfo$subject) {
   for (session in c(1,2)) {
     
     assign("dataset", 
            read.table(
-             paste(subject,"-",session,"/featquery_mni_occipital/tsplot/ps_tsplotc_zstat1_ev1.txt", sep = "")))
+             paste(subject,"-",session,"/",queryfolder,"/tsplot/ps_tsplotc_zstat1_ev1.txt", sep = "")))
     
-    if (ptpinfo$morsession == session) {
+    if ((subinfo$drug[subinfo$subject == subject & subinfo$session == session]) == "mor") {
       dataset$drug <- "mor"
     } else {
       dataset$drug <- "pla"
@@ -28,5 +42,3 @@ for (subject in ptpinfo$ptp) {
     
   }
 }
-
-
