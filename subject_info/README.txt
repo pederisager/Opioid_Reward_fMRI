@@ -10,12 +10,17 @@ LOG OF MISSING/CORRUPT DATA
 ###########################
 
 501
+- Drug: Placebo session 1. Morphine was not available. IGNORE DRUG CODE
+- Session 1: Checklist & SHAPS block 2 outside scanner. Data in matlab-sheet 2_4 and 2_5
 502
+- Drug: Placebo session 1. Morphine was not available. IGNORE DRUG CODE
 
 503
+- Drug: Placebo session 1. Morphine was not available. IGNORE DRUG CODE
 - Session 2: Not tested.
 
 504
+- Drug: Placebo session 1. Morphine was not available. IGNORE DRUG CODE
 - 3D image is skewed
 
 505

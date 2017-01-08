@@ -12,10 +12,12 @@ ggplot(psdata, aes(x = time, y = data, col = subject)) +
 
 ggplot(psdata, aes(x=time*2.208, y=datanobase, col=drug)) + 
   geom_smooth() +
+  scale_color_manual(values = c("#D55E00", "#0072B2")) +
   labs(title = "Mean signal change", x = "Time (seconds)", y = "demeaned signal data")
 
 ggplot(psdata, aes(x=time*2.208, y=datanobase, col=drug)) + 
   geom_point() +
+  scale_color_manual(values = c("#D55E00", "#0072B2")) +
   labs(title = "Mean signal change", x = "Time (seconds)", y = "demeaned signal data")
 
 ###

@@ -1,7 +1,7 @@
 
 ## Set the name of folders containing the featquery of interest
 
-queryfolder <- "featquery_V1_L"
+queryfolder <- "featquery_V2_L_weighted"
 
 ## Load subject information and exclude subects
 
