@@ -1,13 +1,13 @@
 
 ## Set the name of folders containing the featquery of interest
 
-queryfolder <- "featquery_V2_L_weighted"
+queryfolder <- "featquery_V1Left"
 
 ## Load subject information and exclude subects
 
 subinfo <- read.csv(file ='D:/Dropbox/jobb/hedfarmlab/Opioid_Reward_fMRI/subject_info/subject_infosheet.csv', header = TRUE, sep = ",")
 
-excludedsubs <- c(503, 507, 508, 514, 530, 617)
+excludedsubs <- c(503, 507, 508, 514, 530, 532, 617)
 subinfo <- subinfo[!(subinfo$subject %in% excludedsubs),]
 
 
@@ -28,7 +28,7 @@ for (subject in subinfo$subject) {
       dataset$drug <- "pla"
     }
     
-    dataset$subject <- subject
+    dataset$subject <- factor(subject)
     dataset$session <- session
     dataset$datanobase <- dataset$V2 - mean(dataset$V2[dataset$V1 <= 0.4])
     
@@ -42,3 +42,4 @@ for (subject in subinfo$subject) {
     
   }
 }
+

@@ -32,11 +32,6 @@ contains a short description of the task, the contents
 of the directory and a log of the activity in the 
 directory. 
 
-You will probably find that many folders are in .tar
-files or .tar.gz files. This is because Abel works 
-much better with few large files than with many small
-files. 
-
 ######################################################
 
 INTEGRATIONS:
@@ -52,6 +47,10 @@ ABEL
 Data-analysis is partially conducted using the Abel 
 computer cluster. See scripts/abel/README.txt for 
 further information. 
+You will probably find that some folders are in .tar
+files or .tar.gz files. This is because Abel works 
+much better with few large files than with many small
+files. 
 
 RSYNC
 rsync is a quite powerful and plexible way of syncronizing file systems. Documentation of this program can be found online. Be very careful when using this feature however,
