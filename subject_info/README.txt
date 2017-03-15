@@ -1,6 +1,6 @@
 In this folder you can find 
 
-- General info about the participants.
+- General info about the participants (protocols etc).
 - Information about missing data. 
 - Information about bad/unusable data found during analyses.
 
@@ -10,17 +10,17 @@ LOG OF MISSING/CORRUPT DATA
 ###########################
 
 501
-- Drug: Placebo session 1. Morphine was not available. IGNORE DRUG CODE
+- Drug: Placebo session 1. Morphine was not available. IGNORE DRUG CODE IN PROTOCOL
 - Session 1: Checklist & SHAPS block 2 outside scanner. Data in matlab-sheet 2_4 and 2_5
 502
-- Drug: Placebo session 1. Morphine was not available. IGNORE DRUG CODE
+- Drug: Placebo session 1. Morphine was not available. IGNORE DRUG CODE IN PROTOCOL
 
 503
-- Drug: Placebo session 1. Morphine was not available. IGNORE DRUG CODE
+- Drug: Placebo session 1. Morphine was not available. IGNORE DRUG CODE IN PROTOCOL
 - Session 2: Not tested.
 
 504
-- Drug: Placebo session 1. Morphine was not available. IGNORE DRUG CODE
+- Drug: Placebo session 1. Morphine was not available. IGNORE DRUG CODE IN PROTOCOL
 - 3D image is skewed
 
 505
@@ -43,6 +43,8 @@ LOG OF MISSING/CORRUPT DATA
 
 515
 516
+- Session 1: Wrong Emotion perception task. Recieved A, but should have recieved B. Thus, recieved A on both sessions.
+- Session 2: Emotion perception task is wrongly labeled as session 1. Data is from session 2. 
 517
 518
 519
@@ -66,6 +68,7 @@ LOG OF MISSING/CORRUPT DATA
 - Session 2 - Checkerboard: Highly abnormal data. Exclude for now.  
 
 533
+- Session 1 - Physiology data missing for checkerboard task.
 534
 535
 - Session 1 - MID: MID .edat from scanner performed unconvnetionally. 
@@ -109,6 +112,9 @@ LOG OF MISSING/CORRUPT DATA
 ###########################
            LOG
 ###########################
+
+27.01.17
+- Added BRAIN dysmetria (DS) score info to subject_infosheet
 
 02.01.17
 - Added menstrual-cycle info to subject_infosheet

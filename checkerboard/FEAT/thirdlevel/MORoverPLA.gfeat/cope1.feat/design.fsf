@@ -30,7 +30,11 @@ set fmri(featwatcher_yn) 0
 set fmri(sscleanup_yn) 0
 
 # Output directory
+<<<<<<< HEAD
 set fmri(outputdir) "/work/jobs/16691374.d/MORoverPLA.gfeat"
+=======
+set fmri(outputdir) "/work/jobs/16343215.d/MORoverPLA.gfeat"
+>>>>>>> 65e5dc3fcc8812d8f97e2e7da47555c9a16e9e89
 
 # TR(s)
 set fmri(tr) 3
@@ -263,6 +267,7 @@ set fmri(paradigm_hp) 100
 set fmri(ncopeinputs) 0
 
 # 4D AVW data or FEAT directory (1)
+<<<<<<< HEAD
 set feat_files(1) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope10.nii.gz"
 
 # 4D AVW data or FEAT directory (2)
