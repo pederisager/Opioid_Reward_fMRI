@@ -12,3 +12,7 @@ Added raw data
 
 08.03.17
 Added an R project
+
+13.03.17
+Created EVs based on discussion with Tom
+(FoodWanting and RegSuccess)

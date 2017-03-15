@@ -93,7 +93,11 @@ for (subj in unique(subject)) {
     )
     # Save the VAS EV as tab delimited .txt file
     write.table(
+<<<<<<< HEAD
       x = EVvas,
+=======
+      x = EVinst,
+>>>>>>> e9f456e8f38254ca983353581547507885683647
       file = paste("EVs/session",sess,"/",subj,"/","VAS","_",subj,".txt", sep = ""),
       sep = "\t",
       dec = ".",

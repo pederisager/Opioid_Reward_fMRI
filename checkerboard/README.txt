@@ -3,6 +3,10 @@ Simple visual task designed to measure the potential effect of morphine on globa
 
 log:
 
+09.01.17
+Initiated analysis based on new BETs
+Old FEAT analyses put in folders for eventual deletion 
+
 14.11.16
 Incorporated three level analysis in Abel
 Ran thirdlevel with autmatic outlier dewighting - Still no signal above threshold whole brain. 
