@@ -36,7 +36,9 @@ LOG OF MISSING/CORRUPT DATA
 510
 511
 512
+
 513
+- Session 2: Wrong subject name (512) in Food Craving in-scanner edat
 
 514
 - Placebo twice. Can't be used for repeated measures. 
@@ -55,7 +57,10 @@ LOG OF MISSING/CORRUPT DATA
 524
 525
 526
+
 527
+- Session 2: Wrong session name (session 1) in Food Craving in-scanner edat
+
 528
 529
 
@@ -101,7 +106,10 @@ LOG OF MISSING/CORRUPT DATA
 623
 624
 625
+
 626
+- Session 2: Wrong session name (session 1) in Food Craving in-scanner edat
+
 627
 628
 629

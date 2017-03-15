@@ -1,7 +1,15 @@
 
-## Set the name of folders containing the featquery of interest
 
-queryfolder <- "featquery_V1Left"
+## Set your parameters of interest ##
+# The parameters are also used for labling plots later on
+
+ROI <- "V4"
+side <- "left"
+
+
+## Sets the name of folders containing the featquery of interest
+
+queryfolder <- paste("featquery_",ROI,side,"_weighted",sep = "")
 
 ## Load subject information and exclude subects
 

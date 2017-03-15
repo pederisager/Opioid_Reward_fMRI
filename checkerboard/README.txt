@@ -30,3 +30,6 @@ Added a script for second level FEAT analysis on Abel
 Created folder.
 Created subfolders EVs, FEAT, fMRI_raw, scripts
 Added rawdata
+
+06.03.17
+Added more prob_atlas ROIs and featqueries, and reran analyses with fixed effects instead of mixed effects in second level.
