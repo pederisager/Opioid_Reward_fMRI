@@ -3,6 +3,11 @@ Simple visual task designed to measure the potential effect of morphine on globa
 
 log:
 
+28.03.17
+fMRI_unwarped added - contains topup corrected fmri files.
+topup unwarping incorporated in latest FEAT.
+Motion outliers not yet dealt with.
+
 09.01.17
 Initiated analysis based on new BETs
 Old FEAT analyses put in folders for eventual deletion 

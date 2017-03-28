@@ -30,8 +30,7 @@ set fmri(featwatcher_yn) 0
 set fmri(sscleanup_yn) 0
 
 # Output directory
-<<<<<<< HEAD
-set fmri(outputdir) "/work/jobs/16691374.d/MORoverPLA.gfeat"
+set fmri(outputdir) "/work/jobs/16916257.d/MORoverPLA.gfeat"
 
 # TR(s)
 set fmri(tr) 3
@@ -264,188 +263,187 @@ set fmri(paradigm_hp) 100
 set fmri(ncopeinputs) 0
 
 # 4D AVW data or FEAT directory (1)
-<<<<<<< HEAD
-set feat_files(1) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope10.nii.gz"
+set feat_files(1) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope10.nii.gz"
 
 # 4D AVW data or FEAT directory (2)
-set feat_files(2) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope11.nii.gz"
+set feat_files(2) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope11.nii.gz"
 
 # 4D AVW data or FEAT directory (3)
-set feat_files(3) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope12.nii.gz"
+set feat_files(3) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope12.nii.gz"
 
 # 4D AVW data or FEAT directory (4)
-set feat_files(4) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope13.nii.gz"
+set feat_files(4) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope13.nii.gz"
 
 # 4D AVW data or FEAT directory (5)
-set feat_files(5) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope14.nii.gz"
+set feat_files(5) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope14.nii.gz"
 
 # 4D AVW data or FEAT directory (6)
-set feat_files(6) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope15.nii.gz"
+set feat_files(6) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope15.nii.gz"
 
 # 4D AVW data or FEAT directory (7)
-set feat_files(7) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope16.nii.gz"
+set feat_files(7) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope16.nii.gz"
 
 # 4D AVW data or FEAT directory (8)
-set feat_files(8) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope17.nii.gz"
+set feat_files(8) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope17.nii.gz"
 
 # 4D AVW data or FEAT directory (9)
-set feat_files(9) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope18.nii.gz"
+set feat_files(9) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope18.nii.gz"
 
 # 4D AVW data or FEAT directory (10)
-set feat_files(10) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope19.nii.gz"
+set feat_files(10) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope19.nii.gz"
 
 # 4D AVW data or FEAT directory (11)
-set feat_files(11) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope1.nii.gz"
+set feat_files(11) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope1.nii.gz"
 
 # 4D AVW data or FEAT directory (12)
-set feat_files(12) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope20.nii.gz"
+set feat_files(12) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope20.nii.gz"
 
 # 4D AVW data or FEAT directory (13)
-set feat_files(13) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope21.nii.gz"
+set feat_files(13) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope21.nii.gz"
 
 # 4D AVW data or FEAT directory (14)
-set feat_files(14) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope22.nii.gz"
+set feat_files(14) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope22.nii.gz"
 
 # 4D AVW data or FEAT directory (15)
-set feat_files(15) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope23.nii.gz"
+set feat_files(15) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope23.nii.gz"
 
 # 4D AVW data or FEAT directory (16)
-set feat_files(16) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope24.nii.gz"
+set feat_files(16) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope24.nii.gz"
 
 # 4D AVW data or FEAT directory (17)
-set feat_files(17) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope25.nii.gz"
+set feat_files(17) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope25.nii.gz"
 
 # 4D AVW data or FEAT directory (18)
-set feat_files(18) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope26.nii.gz"
+set feat_files(18) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope26.nii.gz"
 
 # 4D AVW data or FEAT directory (19)
-set feat_files(19) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope27.nii.gz"
+set feat_files(19) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope27.nii.gz"
 
 # 4D AVW data or FEAT directory (20)
-set feat_files(20) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope28.nii.gz"
+set feat_files(20) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope28.nii.gz"
 
 # 4D AVW data or FEAT directory (21)
-set feat_files(21) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope29.nii.gz"
+set feat_files(21) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope29.nii.gz"
 
 # 4D AVW data or FEAT directory (22)
-set feat_files(22) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope2.nii.gz"
+set feat_files(22) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope2.nii.gz"
 
 # 4D AVW data or FEAT directory (23)
-set feat_files(23) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope30.nii.gz"
+set feat_files(23) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope30.nii.gz"
 
 # 4D AVW data or FEAT directory (24)
-set feat_files(24) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope31.nii.gz"
+set feat_files(24) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope31.nii.gz"
 
 # 4D AVW data or FEAT directory (25)
-set feat_files(25) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope32.nii.gz"
+set feat_files(25) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope32.nii.gz"
 
 # 4D AVW data or FEAT directory (26)
-set feat_files(26) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope33.nii.gz"
+set feat_files(26) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope33.nii.gz"
 
 # 4D AVW data or FEAT directory (27)
-set feat_files(27) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope34.nii.gz"
+set feat_files(27) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope34.nii.gz"
 
 # 4D AVW data or FEAT directory (28)
-set feat_files(28) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope35.nii.gz"
+set feat_files(28) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope35.nii.gz"
 
 # 4D AVW data or FEAT directory (29)
-set feat_files(29) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope36.nii.gz"
+set feat_files(29) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope36.nii.gz"
 
 # 4D AVW data or FEAT directory (30)
-set feat_files(30) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope37.nii.gz"
+set feat_files(30) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope37.nii.gz"
 
 # 4D AVW data or FEAT directory (31)
-set feat_files(31) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope38.nii.gz"
+set feat_files(31) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope38.nii.gz"
 
 # 4D AVW data or FEAT directory (32)
-set feat_files(32) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope39.nii.gz"
+set feat_files(32) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope39.nii.gz"
 
 # 4D AVW data or FEAT directory (33)
-set feat_files(33) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope3.nii.gz"
+set feat_files(33) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope3.nii.gz"
 
 # 4D AVW data or FEAT directory (34)
-set feat_files(34) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope40.nii.gz"
+set feat_files(34) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope40.nii.gz"
 
 # 4D AVW data or FEAT directory (35)
-set feat_files(35) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope41.nii.gz"
+set feat_files(35) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope41.nii.gz"
 
 # 4D AVW data or FEAT directory (36)
-set feat_files(36) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope42.nii.gz"
+set feat_files(36) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope42.nii.gz"
 
 # 4D AVW data or FEAT directory (37)
-set feat_files(37) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope43.nii.gz"
+set feat_files(37) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope43.nii.gz"
 
 # 4D AVW data or FEAT directory (38)
-set feat_files(38) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope44.nii.gz"
+set feat_files(38) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope44.nii.gz"
 
 # 4D AVW data or FEAT directory (39)
-set feat_files(39) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope45.nii.gz"
+set feat_files(39) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope45.nii.gz"
 
 # 4D AVW data or FEAT directory (40)
-set feat_files(40) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope46.nii.gz"
+set feat_files(40) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope46.nii.gz"
 
 # 4D AVW data or FEAT directory (41)
-set feat_files(41) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope47.nii.gz"
+set feat_files(41) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope47.nii.gz"
 
 # 4D AVW data or FEAT directory (42)
-set feat_files(42) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope48.nii.gz"
+set feat_files(42) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope48.nii.gz"
 
 # 4D AVW data or FEAT directory (43)
-set feat_files(43) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope49.nii.gz"
+set feat_files(43) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope49.nii.gz"
 
 # 4D AVW data or FEAT directory (44)
-set feat_files(44) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope4.nii.gz"
+set feat_files(44) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope4.nii.gz"
 
 # 4D AVW data or FEAT directory (45)
-set feat_files(45) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope50.nii.gz"
+set feat_files(45) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope50.nii.gz"
 
 # 4D AVW data or FEAT directory (46)
-set feat_files(46) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope51.nii.gz"
+set feat_files(46) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope51.nii.gz"
 
 # 4D AVW data or FEAT directory (47)
-set feat_files(47) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope52.nii.gz"
+set feat_files(47) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope52.nii.gz"
 
 # 4D AVW data or FEAT directory (48)
-set feat_files(48) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope53.nii.gz"
+set feat_files(48) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope53.nii.gz"
 
 # 4D AVW data or FEAT directory (49)
-set feat_files(49) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope54.nii.gz"
+set feat_files(49) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope54.nii.gz"
 
 # 4D AVW data or FEAT directory (50)
-set feat_files(50) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope55.nii.gz"
+set feat_files(50) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope55.nii.gz"
 
 # 4D AVW data or FEAT directory (51)
-set feat_files(51) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope56.nii.gz"
+set feat_files(51) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope56.nii.gz"
 
 # 4D AVW data or FEAT directory (52)
-set feat_files(52) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope57.nii.gz"
+set feat_files(52) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope57.nii.gz"
 
 # 4D AVW data or FEAT directory (53)
-set feat_files(53) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope58.nii.gz"
+set feat_files(53) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope58.nii.gz"
 
 # 4D AVW data or FEAT directory (54)
-set feat_files(54) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope59.nii.gz"
+set feat_files(54) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope59.nii.gz"
 
 # 4D AVW data or FEAT directory (55)
-set feat_files(55) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope5.nii.gz"
+set feat_files(55) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope5.nii.gz"
 
 # 4D AVW data or FEAT directory (56)
-set feat_files(56) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope60.nii.gz"
+set feat_files(56) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope60.nii.gz"
 
 # 4D AVW data or FEAT directory (57)
-set feat_files(57) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope61.nii.gz"
+set feat_files(57) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope61.nii.gz"
 
 # 4D AVW data or FEAT directory (58)
-set feat_files(58) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope6.nii.gz"
+set feat_files(58) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope6.nii.gz"
 
 # 4D AVW data or FEAT directory (59)
-set feat_files(59) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope7.nii.gz"
+set feat_files(59) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope7.nii.gz"
 
 # 4D AVW data or FEAT directory (60)
-set feat_files(60) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope8.nii.gz"
+set feat_files(60) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope8.nii.gz"
 
 # 4D AVW data or FEAT directory (61)
-set feat_files(61) "/work/jobs/16691374.d/MORvsPLA_withinsub.gfeat/cope1.feat/stats/cope9.nii.gz"
+set feat_files(61) "/work/jobs/16916257.d/MORoverPLA_withinsub.gfeat/cope1.feat/stats/cope9.nii.gz"
 
 # Add confound EVs text file
 set fmri(confoundevs) 0

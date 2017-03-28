@@ -3,6 +3,12 @@ A food craving regulation task with visual stimuli.
 
 log:
 
+28.03.17
+test-run of firstlevel and secondlevel added. Something wrong with the regsuccess/foodcraving EVs. 
+fMRI_unwarped added - contains topup corrected images. 
+topup correction not yet incorporated in FEAT.
+Motion correction still needs to be incorporated. 
+
 23.11.16 
 Raw data was deleted. Added again.
 
