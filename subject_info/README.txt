@@ -57,7 +57,7 @@ LOG OF MISSING/CORRUPT DATA
 524
 525
 526
-
+- Session 2: Craving rating data missing
 527
 - Session 2: Wrong session name (session 1) in Food Craving in-scanner edat
 

@@ -77,7 +77,7 @@ much better with few large files than with many small
 files. 
 
 RSYNC
-rsync is a quite powerful and plexible way of syncronizing file systems. 
+rsync is a quite powerful and flexible way of syncronizing file systems. 
 Documentation of this program can be found online. 
 Be very careful when using this feature however,
 as it can potentially override important information. 
