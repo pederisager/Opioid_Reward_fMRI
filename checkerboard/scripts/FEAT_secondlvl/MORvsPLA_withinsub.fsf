@@ -266,370 +266,370 @@ set fmri(ncopeinputs) 1
 set fmri(copeinput.1) 1
 
 # 4D AVW data or FEAT directory (1)
-set feat_files(1) "SCRATCH/Session2/501.feat"
+set feat_files(1) "SCRATCH/session2/501.feat"
 
 # 4D AVW data or FEAT directory (2)
-set feat_files(2) "SCRATCH/Session2/502.feat"
+set feat_files(2) "SCRATCH/session2/502.feat"
 
 # 4D AVW data or FEAT directory (3)
-set feat_files(3) "SCRATCH/Session2/504.feat"
+set feat_files(3) "SCRATCH/session2/504.feat"
 
 # 4D AVW data or FEAT directory (4)
-set feat_files(4) "SCRATCH/Session1/505.feat"
+set feat_files(4) "SCRATCH/session1/505.feat"
 
 # 4D AVW data or FEAT directory (5)
-set feat_files(5) "SCRATCH/Session2/506.feat"
+set feat_files(5) "SCRATCH/session2/506.feat"
 
 # 4D AVW data or FEAT directory (6)
-set feat_files(6) "SCRATCH/Session1/509.feat"
+set feat_files(6) "SCRATCH/session1/509.feat"
 
 # 4D AVW data or FEAT directory (7)
-set feat_files(7) "SCRATCH/Session2/510.feat"
+set feat_files(7) "SCRATCH/session2/510.feat"
 
 # 4D AVW data or FEAT directory (8)
-set feat_files(8) "SCRATCH/Session1/511.feat"
+set feat_files(8) "SCRATCH/session1/511.feat"
 
 # 4D AVW data or FEAT directory (9)
-set feat_files(9) "SCRATCH/Session2/512.feat"
+set feat_files(9) "SCRATCH/session2/512.feat"
 
 # 4D AVW data or FEAT directory (10)
-set feat_files(10) "SCRATCH/Session1/513.feat"
+set feat_files(10) "SCRATCH/session1/513.feat"
 
 # 4D AVW data or FEAT directory (11)
-set feat_files(11) "SCRATCH/Session1/515.feat"
+set feat_files(11) "SCRATCH/session1/515.feat"
 
 # 4D AVW data or FEAT directory (12)
-set feat_files(12) "SCRATCH/Session2/516.feat"
+set feat_files(12) "SCRATCH/session2/516.feat"
 
 # 4D AVW data or FEAT directory (13)
-set feat_files(13) "SCRATCH/Session1/517.feat"
+set feat_files(13) "SCRATCH/session1/517.feat"
 
 # 4D AVW data or FEAT directory (14)
-set feat_files(14) "SCRATCH/Session2/518.feat"
+set feat_files(14) "SCRATCH/session2/518.feat"
 
 # 4D AVW data or FEAT directory (15)
-set feat_files(15) "SCRATCH/Session1/519.feat"
+set feat_files(15) "SCRATCH/session1/519.feat"
 
 # 4D AVW data or FEAT directory (16)
-set feat_files(16) "SCRATCH/Session2/520.feat"
+set feat_files(16) "SCRATCH/session2/520.feat"
 
 # 4D AVW data or FEAT directory (17)
-set feat_files(17) "SCRATCH/Session1/521.feat"
+set feat_files(17) "SCRATCH/session1/521.feat"
 
 # 4D AVW data or FEAT directory (18)
-set feat_files(18) "SCRATCH/Session2/522.feat"
+set feat_files(18) "SCRATCH/session2/522.feat"
 
 # 4D AVW data or FEAT directory (19)
-set feat_files(19) "SCRATCH/Session1/523.feat"
+set feat_files(19) "SCRATCH/session1/523.feat"
 
 # 4D AVW data or FEAT directory (20)
-set feat_files(20) "SCRATCH/Session2/524.feat"
+set feat_files(20) "SCRATCH/session2/524.feat"
 
 # 4D AVW data or FEAT directory (21)
-set feat_files(21) "SCRATCH/Session1/525.feat"
+set feat_files(21) "SCRATCH/session1/525.feat"
 
 # 4D AVW data or FEAT directory (22)
-set feat_files(22) "SCRATCH/Session2/526.feat"
+set feat_files(22) "SCRATCH/session2/526.feat"
 
 # 4D AVW data or FEAT directory (23)
-set feat_files(23) "SCRATCH/Session1/527.feat"
+set feat_files(23) "SCRATCH/session1/527.feat"
 
 # 4D AVW data or FEAT directory (24)
-set feat_files(24) "SCRATCH/Session2/528.feat"
+set feat_files(24) "SCRATCH/session2/528.feat"
 
 # 4D AVW data or FEAT directory (25)
-set feat_files(25) "SCRATCH/Session1/529.feat"
+set feat_files(25) "SCRATCH/session1/529.feat"
 
 # 4D AVW data or FEAT directory (26)
-set feat_files(26) "SCRATCH/Session2/531.feat"
+set feat_files(26) "SCRATCH/session2/531.feat"
 
 # 4D AVW data or FEAT directory (27)
-set feat_files(27) "SCRATCH/Session2/533.feat"
+set feat_files(27) "SCRATCH/session2/533.feat"
 
 # 4D AVW data or FEAT directory (28)
-set feat_files(28) "SCRATCH/Session1/534.feat"
+set feat_files(28) "SCRATCH/session1/534.feat"
 
 # 4D AVW data or FEAT directory (29)
-set feat_files(29) "SCRATCH/Session2/535.feat"
+set feat_files(29) "SCRATCH/session2/535.feat"
 
 # 4D AVW data or FEAT directory (30)
-set feat_files(30) "SCRATCH/Session2/536.feat"
+set feat_files(30) "SCRATCH/session2/536.feat"
 
 # 4D AVW data or FEAT directory (31)
-set feat_files(31) "SCRATCH/Session1/601.feat"
+set feat_files(31) "SCRATCH/session1/601.feat"
 
 # 4D AVW data or FEAT directory (32)
-set feat_files(32) "SCRATCH/Session2/602.feat"
+set feat_files(32) "SCRATCH/session2/602.feat"
 
 # 4D AVW data or FEAT directory (33)
-set feat_files(33) "SCRATCH/Session1/603.feat"
+set feat_files(33) "SCRATCH/session1/603.feat"
 
 # 4D AVW data or FEAT directory (34)
-set feat_files(34) "SCRATCH/Session2/604.feat"
+set feat_files(34) "SCRATCH/session2/604.feat"
 
 # 4D AVW data or FEAT directory (35)
-set feat_files(35) "SCRATCH/Session1/605.feat"
+set feat_files(35) "SCRATCH/session1/605.feat"
 
 # 4D AVW data or FEAT directory (36)
-set feat_files(36) "SCRATCH/Session2/606.feat"
+set feat_files(36) "SCRATCH/session2/606.feat"
 
 # 4D AVW data or FEAT directory (37)
-set feat_files(37) "SCRATCH/Session1/607.feat"
+set feat_files(37) "SCRATCH/session1/607.feat"
 
 # 4D AVW data or FEAT directory (38)
-set feat_files(38) "SCRATCH/Session2/608.feat"
+set feat_files(38) "SCRATCH/session2/608.feat"
 
 # 4D AVW data or FEAT directory (39)
-set feat_files(39) "SCRATCH/Session1/609.feat"
+set feat_files(39) "SCRATCH/session1/609.feat"
 
 # 4D AVW data or FEAT directory (40)
-set feat_files(40) "SCRATCH/Session2/610.feat"
+set feat_files(40) "SCRATCH/session2/610.feat"
 
 # 4D AVW data or FEAT directory (41)
-set feat_files(41) "SCRATCH/Session1/611.feat"
+set feat_files(41) "SCRATCH/session1/611.feat"
 
 # 4D AVW data or FEAT directory (42)
-set feat_files(42) "SCRATCH/Session2/612.feat"
+set feat_files(42) "SCRATCH/session2/612.feat"
 
 # 4D AVW data or FEAT directory (43)
-set feat_files(43) "SCRATCH/Session1/613.feat"
+set feat_files(43) "SCRATCH/session1/613.feat"
 
 # 4D AVW data or FEAT directory (44)
-set feat_files(44) "SCRATCH/Session2/614.feat"
+set feat_files(44) "SCRATCH/session2/614.feat"
 
 # 4D AVW data or FEAT directory (45)
-set feat_files(45) "SCRATCH/Session1/615.feat"
+set feat_files(45) "SCRATCH/session1/615.feat"
 
 # 4D AVW data or FEAT directory (46)
-set feat_files(46) "SCRATCH/Session2/616.feat"
+set feat_files(46) "SCRATCH/session2/616.feat"
 
 # 4D AVW data or FEAT directory (47)
-set feat_files(47) "SCRATCH/Session2/618.feat"
+set feat_files(47) "SCRATCH/session2/618.feat"
 
 # 4D AVW data or FEAT directory (48)
-set feat_files(48) "SCRATCH/Session1/619.feat"
+set feat_files(48) "SCRATCH/session1/619.feat"
 
 # 4D AVW data or FEAT directory (49)
-set feat_files(49) "SCRATCH/Session1/620.feat"
+set feat_files(49) "SCRATCH/session1/620.feat"
 
 # 4D AVW data or FEAT directory (50)
-set feat_files(50) "SCRATCH/Session1/621.feat"
+set feat_files(50) "SCRATCH/session1/621.feat"
 
 # 4D AVW data or FEAT directory (51)
-set feat_files(51) "SCRATCH/Session2/622.feat"
+set feat_files(51) "SCRATCH/session2/622.feat"
 
 # 4D AVW data or FEAT directory (52)
-set feat_files(52) "SCRATCH/Session1/623.feat"
+set feat_files(52) "SCRATCH/session1/623.feat"
 
 # 4D AVW data or FEAT directory (53)
-set feat_files(53) "SCRATCH/Session2/624.feat"
+set feat_files(53) "SCRATCH/session2/624.feat"
 
 # 4D AVW data or FEAT directory (54)
-set feat_files(54) "SCRATCH/Session1/625.feat"
+set feat_files(54) "SCRATCH/session1/625.feat"
 
 # 4D AVW data or FEAT directory (55)
-set feat_files(55) "SCRATCH/Session2/626.feat"
+set feat_files(55) "SCRATCH/session2/626.feat"
 
 # 4D AVW data or FEAT directory (56)
-set feat_files(56) "SCRATCH/Session2/627.feat"
+set feat_files(56) "SCRATCH/session2/627.feat"
 
 # 4D AVW data or FEAT directory (57)
-set feat_files(57) "SCRATCH/Session1/628.feat"
+set feat_files(57) "SCRATCH/session1/628.feat"
 
 # 4D AVW data or FEAT directory (58)
-set feat_files(58) "SCRATCH/Session1/629.feat"
+set feat_files(58) "SCRATCH/session1/629.feat"
 
 # 4D AVW data or FEAT directory (59)
-set feat_files(59) "SCRATCH/Session2/630.feat"
+set feat_files(59) "SCRATCH/session2/630.feat"
 
 # 4D AVW data or FEAT directory (60)
-set feat_files(60) "SCRATCH/Session2/631.feat"
+set feat_files(60) "SCRATCH/session2/631.feat"
 
 # 4D AVW data or FEAT directory (61)
-set feat_files(61) "SCRATCH/Session1/632.feat"
+set feat_files(61) "SCRATCH/session1/632.feat"
 
 # 4D AVW data or FEAT directory (62)
-set feat_files(62) "SCRATCH/Session1/501.feat"
+set feat_files(62) "SCRATCH/session1/501.feat"
 
 # 4D AVW data or FEAT directory (63)
-set feat_files(63) "SCRATCH/Session1/502.feat"
+set feat_files(63) "SCRATCH/session1/502.feat"
 
 # 4D AVW data or FEAT directory (64)
-set feat_files(64) "SCRATCH/Session1/504.feat"
+set feat_files(64) "SCRATCH/session1/504.feat"
 
 # 4D AVW data or FEAT directory (65)
-set feat_files(65) "SCRATCH/Session2/505.feat"
+set feat_files(65) "SCRATCH/session2/505.feat"
 
 # 4D AVW data or FEAT directory (66)
-set feat_files(66) "SCRATCH/Session1/506.feat"
+set feat_files(66) "SCRATCH/session1/506.feat"
 
 # 4D AVW data or FEAT directory (67)
-set feat_files(67) "SCRATCH/Session2/509.feat"
+set feat_files(67) "SCRATCH/session2/509.feat"
 
 # 4D AVW data or FEAT directory (68)
-set feat_files(68) "SCRATCH/Session1/510.feat"
+set feat_files(68) "SCRATCH/session1/510.feat"
 
 # 4D AVW data or FEAT directory (69)
-set feat_files(69) "SCRATCH/Session2/511.feat"
+set feat_files(69) "SCRATCH/session2/511.feat"
 
 # 4D AVW data or FEAT directory (70)
-set feat_files(70) "SCRATCH/Session1/512.feat"
+set feat_files(70) "SCRATCH/session1/512.feat"
 
 # 4D AVW data or FEAT directory (71)
-set feat_files(71) "SCRATCH/Session2/513.feat"
+set feat_files(71) "SCRATCH/session2/513.feat"
 
 # 4D AVW data or FEAT directory (72)
-set feat_files(72) "SCRATCH/Session2/515.feat"
+set feat_files(72) "SCRATCH/session2/515.feat"
 
 # 4D AVW data or FEAT directory (73)
-set feat_files(73) "SCRATCH/Session1/516.feat"
+set feat_files(73) "SCRATCH/session1/516.feat"
 
 # 4D AVW data or FEAT directory (74)
-set feat_files(74) "SCRATCH/Session2/517.feat"
+set feat_files(74) "SCRATCH/session2/517.feat"
 
 # 4D AVW data or FEAT directory (75)
-set feat_files(75) "SCRATCH/Session1/518.feat"
+set feat_files(75) "SCRATCH/session1/518.feat"
 
 # 4D AVW data or FEAT directory (76)
-set feat_files(76) "SCRATCH/Session2/519.feat"
+set feat_files(76) "SCRATCH/session2/519.feat"
 
 # 4D AVW data or FEAT directory (77)
-set feat_files(77) "SCRATCH/Session1/520.feat"
+set feat_files(77) "SCRATCH/session1/520.feat"
 
 # 4D AVW data or FEAT directory (78)
-set feat_files(78) "SCRATCH/Session2/521.feat"
+set feat_files(78) "SCRATCH/session2/521.feat"
 
 # 4D AVW data or FEAT directory (79)
-set feat_files(79) "SCRATCH/Session1/522.feat"
+set feat_files(79) "SCRATCH/session1/522.feat"
 
 # 4D AVW data or FEAT directory (80)
-set feat_files(80) "SCRATCH/Session2/523.feat"
+set feat_files(80) "SCRATCH/session2/523.feat"
 
 # 4D AVW data or FEAT directory (81)
-set feat_files(81) "SCRATCH/Session1/524.feat"
+set feat_files(81) "SCRATCH/session1/524.feat"
 
 # 4D AVW data or FEAT directory (82)
-set feat_files(82) "SCRATCH/Session2/525.feat"
+set feat_files(82) "SCRATCH/session2/525.feat"
 
 # 4D AVW data or FEAT directory (83)
-set feat_files(83) "SCRATCH/Session1/526.feat"
+set feat_files(83) "SCRATCH/session1/526.feat"
 
 # 4D AVW data or FEAT directory (84)
-set feat_files(84) "SCRATCH/Session2/527.feat"
+set feat_files(84) "SCRATCH/session2/527.feat"
 
 # 4D AVW data or FEAT directory (85)
-set feat_files(85) "SCRATCH/Session1/528.feat"
+set feat_files(85) "SCRATCH/session1/528.feat"
 
 # 4D AVW data or FEAT directory (86)
-set feat_files(86) "SCRATCH/Session2/529.feat"
+set feat_files(86) "SCRATCH/session2/529.feat"
 
 # 4D AVW data or FEAT directory (87)
-set feat_files(87) "SCRATCH/Session1/531.feat"
+set feat_files(87) "SCRATCH/session1/531.feat"
 
 # 4D AVW data or FEAT directory (88)
-set feat_files(88) "SCRATCH/Session1/533.feat"
+set feat_files(88) "SCRATCH/session1/533.feat"
 
 # 4D AVW data or FEAT directory (89)
-set feat_files(89) "SCRATCH/Session2/534.feat"
+set feat_files(89) "SCRATCH/session2/534.feat"
 
 # 4D AVW data or FEAT directory (90)
-set feat_files(90) "SCRATCH/Session1/535.feat"
+set feat_files(90) "SCRATCH/session1/535.feat"
 
 # 4D AVW data or FEAT directory (91)
-set feat_files(91) "SCRATCH/Session1/536.feat"
+set feat_files(91) "SCRATCH/session1/536.feat"
 
 # 4D AVW data or FEAT directory (92)
-set feat_files(92) "SCRATCH/Session2/601.feat"
+set feat_files(92) "SCRATCH/session2/601.feat"
 
 # 4D AVW data or FEAT directory (93)
-set feat_files(93) "SCRATCH/Session1/602.feat"
+set feat_files(93) "SCRATCH/session1/602.feat"
 
 # 4D AVW data or FEAT directory (94)
-set feat_files(94) "SCRATCH/Session2/603.feat"
+set feat_files(94) "SCRATCH/session2/603.feat"
 
 # 4D AVW data or FEAT directory (95)
-set feat_files(95) "SCRATCH/Session1/604.feat"
+set feat_files(95) "SCRATCH/session1/604.feat"
 
 # 4D AVW data or FEAT directory (96)
-set feat_files(96) "SCRATCH/Session2/605.feat"
+set feat_files(96) "SCRATCH/session2/605.feat"
 
 # 4D AVW data or FEAT directory (97)
-set feat_files(97) "SCRATCH/Session1/606.feat"
+set feat_files(97) "SCRATCH/session1/606.feat"
 
 # 4D AVW data or FEAT directory (98)
-set feat_files(98) "SCRATCH/Session2/607.feat"
+set feat_files(98) "SCRATCH/session2/607.feat"
 
 # 4D AVW data or FEAT directory (99)
-set feat_files(99) "SCRATCH/Session1/608.feat"
+set feat_files(99) "SCRATCH/session1/608.feat"
 
 # 4D AVW data or FEAT directory (100)
-set feat_files(100) "SCRATCH/Session2/609.feat"
+set feat_files(100) "SCRATCH/session2/609.feat"
 
 # 4D AVW data or FEAT directory (101)
-set feat_files(101) "SCRATCH/Session1/610.feat"
+set feat_files(101) "SCRATCH/session1/610.feat"
 
 # 4D AVW data or FEAT directory (102)
-set feat_files(102) "SCRATCH/Session2/611.feat"
+set feat_files(102) "SCRATCH/session2/611.feat"
 
 # 4D AVW data or FEAT directory (103)
-set feat_files(103) "SCRATCH/Session1/612.feat"
+set feat_files(103) "SCRATCH/session1/612.feat"
 
 # 4D AVW data or FEAT directory (104)
-set feat_files(104) "SCRATCH/Session2/613.feat"
+set feat_files(104) "SCRATCH/session2/613.feat"
 
 # 4D AVW data or FEAT directory (105)
-set feat_files(105) "SCRATCH/Session1/614.feat"
+set feat_files(105) "SCRATCH/session1/614.feat"
 
 # 4D AVW data or FEAT directory (106)
-set feat_files(106) "SCRATCH/Session2/615.feat"
+set feat_files(106) "SCRATCH/session2/615.feat"
 
 # 4D AVW data or FEAT directory (107)
-set feat_files(107) "SCRATCH/Session1/616.feat"
+set feat_files(107) "SCRATCH/session1/616.feat"
 
 # 4D AVW data or FEAT directory (108)
-set feat_files(108) "SCRATCH/Session1/618.feat"
+set feat_files(108) "SCRATCH/session1/618.feat"
 
 # 4D AVW data or FEAT directory (109)
-set feat_files(109) "SCRATCH/Session2/619.feat"
+set feat_files(109) "SCRATCH/session2/619.feat"
 
 # 4D AVW data or FEAT directory (110)
-set feat_files(110) "SCRATCH/Session2/620.feat"
+set feat_files(110) "SCRATCH/session2/620.feat"
 
 # 4D AVW data or FEAT directory (111)
-set feat_files(111) "SCRATCH/Session2/621.feat"
+set feat_files(111) "SCRATCH/session2/621.feat"
 
 # 4D AVW data or FEAT directory (112)
-set feat_files(112) "SCRATCH/Session1/622.feat"
+set feat_files(112) "SCRATCH/session1/622.feat"
 
 # 4D AVW data or FEAT directory (113)
-set feat_files(113) "SCRATCH/Session2/623.feat"
+set feat_files(113) "SCRATCH/session2/623.feat"
 
 # 4D AVW data or FEAT directory (114)
-set feat_files(114) "SCRATCH/Session1/624.feat"
+set feat_files(114) "SCRATCH/session1/624.feat"
 
 # 4D AVW data or FEAT directory (115)
-set feat_files(115) "SCRATCH/Session2/625.feat"
+set feat_files(115) "SCRATCH/session2/625.feat"
 
 # 4D AVW data or FEAT directory (116)
-set feat_files(116) "SCRATCH/Session1/626.feat"
+set feat_files(116) "SCRATCH/session1/626.feat"
 
 # 4D AVW data or FEAT directory (117)
-set feat_files(117) "SCRATCH/Session1/627.feat"
+set feat_files(117) "SCRATCH/session1/627.feat"
 
 # 4D AVW data or FEAT directory (118)
-set feat_files(118) "SCRATCH/Session2/628.feat"
+set feat_files(118) "SCRATCH/session2/628.feat"
 
 # 4D AVW data or FEAT directory (119)
-set feat_files(119) "SCRATCH/Session2/629.feat"
+set feat_files(119) "SCRATCH/session2/629.feat"
 
 # 4D AVW data or FEAT directory (120)
-set feat_files(120) "SCRATCH/Session1/630.feat"
+set feat_files(120) "SCRATCH/session1/630.feat"
 
 # 4D AVW data or FEAT directory (121)
-set feat_files(121) "SCRATCH/Session1/631.feat"
+set feat_files(121) "SCRATCH/session1/631.feat"
 
 # 4D AVW data or FEAT directory (122)
-set feat_files(122) "SCRATCH/Session2/632.feat"
+set feat_files(122) "SCRATCH/session2/632.feat"
 
 # Add confound EVs text file
 set fmri(confoundevs) 0

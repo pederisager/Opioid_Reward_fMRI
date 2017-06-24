@@ -266,7 +266,7 @@ set fmri(totalVoxels) 30912000
 set fmri(ncopeinputs) 0
 
 # 4D AVW data or FEAT directory (1)
-set feat_files(1) "SCRATCH/fmri"
+set feat_files(1) "SCRATCH/fmri_unwarped"
 
 # Add confound EVs text file
 set fmri(confoundevs) 0
