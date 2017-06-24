@@ -80,6 +80,7 @@ LOG OF MISSING/CORRUPT DATA
 536
 601
 602
+- Session 2 - Craving: in-scanner VAS ratings not logged, or subject did not respond. 
 603
 604
 605
