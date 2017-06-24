@@ -26,5 +26,6 @@ chkfile $OUTFILE
 
 sed -ie "s|OUTFILE|${OUTFILE}|g" firstFEAT.fsf
 sed -ie "s|SCRATCH|${SCRATCH}|g" firstFEAT.fsf
+sed -ie "s|TASK_ID|${TASK_ID}|g" firstFEAT.fsf
 
 feat firstFEAT.fsf

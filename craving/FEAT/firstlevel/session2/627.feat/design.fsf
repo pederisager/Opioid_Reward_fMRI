@@ -30,7 +30,7 @@ set fmri(featwatcher_yn) 0
 set fmri(sscleanup_yn) 0
 
 # Output directory
-set fmri(outputdir) "/work/jobs/16804995.d/627.feat"
+set fmri(outputdir) "/work/jobs/16944329.d/627.feat"
 
 # TR(s)
 set fmri(tr) 2.208000
@@ -267,13 +267,16 @@ set fmri(totalVoxels) 98112000
 set fmri(ncopeinputs) 0
 
 # 4D AVW data or FEAT directory (1)
-set feat_files(1) "/work/jobs/16804995.d/fmri"
+set feat_files(1) "/work/jobs/16944329.d/fmri_unwarped"
 
 # Add confound EVs text file
-set fmri(confoundevs) 0
+set fmri(confoundevs) 1
+
+# Confound EVs text file for analysis 1
+set confoundev_files(1) "/work/jobs/16944329.d/headmotion_627.txt"
 
 # Subject's structural image for analysis 1
-set highres_files(1) "/work/jobs/16804995.d/3DRR_noneck_brain"
+set highres_files(1) "/work/jobs/16944329.d/3DRR_noneck_brain"
 
 # EV 1 title
 set fmri(evtitle1) "ObsPic"
@@ -307,7 +310,7 @@ set fmri(tempfilt_yn1) 1
 set fmri(deriv_yn1) 1
 
 # Custom EV file (EV 1)
-set fmri(custom1) "/work/jobs/16804995.d/Observer_627.txt"
+set fmri(custom1) "/work/jobs/16944329.d/Observer_627.txt"
 
 # Gamma sigma (EV 1)
 set fmri(gammasigma1) 3
@@ -368,7 +371,7 @@ set fmri(tempfilt_yn2) 1
 set fmri(deriv_yn2) 1
 
 # Custom EV file (EV 2)
-set fmri(custom2) "/work/jobs/16804995.d/Reguler_627.txt"
+set fmri(custom2) "/work/jobs/16944329.d/Reguler_627.txt"
 
 # Gamma sigma (EV 2)
 set fmri(gammasigma2) 3
@@ -429,7 +432,7 @@ set fmri(tempfilt_yn3) 1
 set fmri(deriv_yn3) 1
 
 # Custom EV file (EV 3)
-set fmri(custom3) "/work/jobs/16804995.d/Instruct_627.txt"
+set fmri(custom3) "/work/jobs/16944329.d/Instruct_627.txt"
 
 # Gamma sigma (EV 3)
 set fmri(gammasigma3) 3
@@ -490,7 +493,7 @@ set fmri(tempfilt_yn4) 1
 set fmri(deriv_yn4) 1
 
 # Custom EV file (EV 4)
-set fmri(custom4) "/work/jobs/16804995.d/VAS_627.txt"
+set fmri(custom4) "/work/jobs/16944329.d/VAS_627.txt"
 
 # Gamma sigma (EV 4)
 set fmri(gammasigma4) 3
@@ -551,7 +554,7 @@ set fmri(tempfilt_yn5) 1
 set fmri(deriv_yn5) 1
 
 # Custom EV file (EV 5)
-set fmri(custom5) "/work/jobs/16804995.d/FoodWanting_627.txt"
+set fmri(custom5) "/work/jobs/16944329.d/FoodWanting_627.txt"
 
 # Gamma sigma (EV 5)
 set fmri(gammasigma5) 3
@@ -612,7 +615,7 @@ set fmri(tempfilt_yn6) 1
 set fmri(deriv_yn6) 1
 
 # Custom EV file (EV 6)
-set fmri(custom6) "/work/jobs/16804995.d/RegSuccess_627.txt"
+set fmri(custom6) "/work/jobs/16944329.d/RegSuccess_627.txt"
 
 # Gamma sigma (EV 6)
 set fmri(gammasigma6) 3

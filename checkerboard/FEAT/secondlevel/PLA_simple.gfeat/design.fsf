@@ -30,7 +30,7 @@ set fmri(featwatcher_yn) 1
 set fmri(sscleanup_yn) 0
 
 # Output directory
-set fmri(outputdir) "/work/jobs/16876425.d/PLA_simple.gfeat"
+set fmri(outputdir) "/work/jobs/16948255.d/PLA_simple.gfeat"
 
 # TR(s)
 set fmri(tr) 3
@@ -266,187 +266,187 @@ set fmri(ncopeinputs) 1
 set fmri(copeinput.1) 1
 
 # 4D AVW data or FEAT directory (1)
-set feat_files(1) "/work/jobs/16876425.d/session1/501.feat"
+set feat_files(1) "/work/jobs/16948255.d/session1/501.feat"
 
 # 4D AVW data or FEAT directory (2)
-set feat_files(2) "/work/jobs/16876425.d/session1/502.feat"
+set feat_files(2) "/work/jobs/16948255.d/session1/502.feat"
 
 # 4D AVW data or FEAT directory (3)
-set feat_files(3) "/work/jobs/16876425.d/session1/504.feat"
+set feat_files(3) "/work/jobs/16948255.d/session1/504.feat"
 
 # 4D AVW data or FEAT directory (4)
-set feat_files(4) "/work/jobs/16876425.d/session2/505.feat"
+set feat_files(4) "/work/jobs/16948255.d/session2/505.feat"
 
 # 4D AVW data or FEAT directory (5)
-set feat_files(5) "/work/jobs/16876425.d/session1/506.feat"
+set feat_files(5) "/work/jobs/16948255.d/session1/506.feat"
 
 # 4D AVW data or FEAT directory (6)
-set feat_files(6) "/work/jobs/16876425.d/session2/509.feat"
+set feat_files(6) "/work/jobs/16948255.d/session2/509.feat"
 
 # 4D AVW data or FEAT directory (7)
-set feat_files(7) "/work/jobs/16876425.d/session1/510.feat"
+set feat_files(7) "/work/jobs/16948255.d/session1/510.feat"
 
 # 4D AVW data or FEAT directory (8)
-set feat_files(8) "/work/jobs/16876425.d/session2/511.feat"
+set feat_files(8) "/work/jobs/16948255.d/session2/511.feat"
 
 # 4D AVW data or FEAT directory (9)
-set feat_files(9) "/work/jobs/16876425.d/session1/512.feat"
+set feat_files(9) "/work/jobs/16948255.d/session1/512.feat"
 
 # 4D AVW data or FEAT directory (10)
-set feat_files(10) "/work/jobs/16876425.d/session2/513.feat"
+set feat_files(10) "/work/jobs/16948255.d/session2/513.feat"
 
 # 4D AVW data or FEAT directory (11)
-set feat_files(11) "/work/jobs/16876425.d/session2/515.feat"
+set feat_files(11) "/work/jobs/16948255.d/session2/515.feat"
 
 # 4D AVW data or FEAT directory (12)
-set feat_files(12) "/work/jobs/16876425.d/session1/516.feat"
+set feat_files(12) "/work/jobs/16948255.d/session1/516.feat"
 
 # 4D AVW data or FEAT directory (13)
-set feat_files(13) "/work/jobs/16876425.d/session2/517.feat"
+set feat_files(13) "/work/jobs/16948255.d/session2/517.feat"
 
 # 4D AVW data or FEAT directory (14)
-set feat_files(14) "/work/jobs/16876425.d/session1/518.feat"
+set feat_files(14) "/work/jobs/16948255.d/session1/518.feat"
 
 # 4D AVW data or FEAT directory (15)
-set feat_files(15) "/work/jobs/16876425.d/session2/519.feat"
+set feat_files(15) "/work/jobs/16948255.d/session2/519.feat"
 
 # 4D AVW data or FEAT directory (16)
-set feat_files(16) "/work/jobs/16876425.d/session1/520.feat"
+set feat_files(16) "/work/jobs/16948255.d/session1/520.feat"
 
 # 4D AVW data or FEAT directory (17)
-set feat_files(17) "/work/jobs/16876425.d/session2/521.feat"
+set feat_files(17) "/work/jobs/16948255.d/session2/521.feat"
 
 # 4D AVW data or FEAT directory (18)
-set feat_files(18) "/work/jobs/16876425.d/session1/522.feat"
+set feat_files(18) "/work/jobs/16948255.d/session1/522.feat"
 
 # 4D AVW data or FEAT directory (19)
-set feat_files(19) "/work/jobs/16876425.d/session2/523.feat"
+set feat_files(19) "/work/jobs/16948255.d/session2/523.feat"
 
 # 4D AVW data or FEAT directory (20)
-set feat_files(20) "/work/jobs/16876425.d/session1/524.feat"
+set feat_files(20) "/work/jobs/16948255.d/session1/524.feat"
 
 # 4D AVW data or FEAT directory (21)
-set feat_files(21) "/work/jobs/16876425.d/session2/525.feat"
+set feat_files(21) "/work/jobs/16948255.d/session2/525.feat"
 
 # 4D AVW data or FEAT directory (22)
-set feat_files(22) "/work/jobs/16876425.d/session1/526.feat"
+set feat_files(22) "/work/jobs/16948255.d/session1/526.feat"
 
 # 4D AVW data or FEAT directory (23)
-set feat_files(23) "/work/jobs/16876425.d/session2/527.feat"
+set feat_files(23) "/work/jobs/16948255.d/session2/527.feat"
 
 # 4D AVW data or FEAT directory (24)
-set feat_files(24) "/work/jobs/16876425.d/session1/528.feat"
+set feat_files(24) "/work/jobs/16948255.d/session1/528.feat"
 
 # 4D AVW data or FEAT directory (25)
-set feat_files(25) "/work/jobs/16876425.d/session2/529.feat"
+set feat_files(25) "/work/jobs/16948255.d/session2/529.feat"
 
 # 4D AVW data or FEAT directory (26)
-set feat_files(26) "/work/jobs/16876425.d/session1/531.feat"
+set feat_files(26) "/work/jobs/16948255.d/session1/531.feat"
 
 # 4D AVW data or FEAT directory (27)
-set feat_files(27) "/work/jobs/16876425.d/session1/533.feat"
+set feat_files(27) "/work/jobs/16948255.d/session1/533.feat"
 
 # 4D AVW data or FEAT directory (28)
-set feat_files(28) "/work/jobs/16876425.d/session2/534.feat"
+set feat_files(28) "/work/jobs/16948255.d/session2/534.feat"
 
 # 4D AVW data or FEAT directory (29)
-set feat_files(29) "/work/jobs/16876425.d/session1/535.feat"
+set feat_files(29) "/work/jobs/16948255.d/session1/535.feat"
 
 # 4D AVW data or FEAT directory (30)
-set feat_files(30) "/work/jobs/16876425.d/session1/536.feat"
+set feat_files(30) "/work/jobs/16948255.d/session1/536.feat"
 
 # 4D AVW data or FEAT directory (31)
-set feat_files(31) "/work/jobs/16876425.d/session2/601.feat"
+set feat_files(31) "/work/jobs/16948255.d/session2/601.feat"
 
 # 4D AVW data or FEAT directory (32)
-set feat_files(32) "/work/jobs/16876425.d/session1/602.feat"
+set feat_files(32) "/work/jobs/16948255.d/session1/602.feat"
 
 # 4D AVW data or FEAT directory (33)
-set feat_files(33) "/work/jobs/16876425.d/session2/603.feat"
+set feat_files(33) "/work/jobs/16948255.d/session2/603.feat"
 
 # 4D AVW data or FEAT directory (34)
-set feat_files(34) "/work/jobs/16876425.d/session1/604.feat"
+set feat_files(34) "/work/jobs/16948255.d/session1/604.feat"
 
 # 4D AVW data or FEAT directory (35)
-set feat_files(35) "/work/jobs/16876425.d/session2/605.feat"
+set feat_files(35) "/work/jobs/16948255.d/session2/605.feat"
 
 # 4D AVW data or FEAT directory (36)
-set feat_files(36) "/work/jobs/16876425.d/session1/606.feat"
+set feat_files(36) "/work/jobs/16948255.d/session1/606.feat"
 
 # 4D AVW data or FEAT directory (37)
-set feat_files(37) "/work/jobs/16876425.d/session2/607.feat"
+set feat_files(37) "/work/jobs/16948255.d/session2/607.feat"
 
 # 4D AVW data or FEAT directory (38)
-set feat_files(38) "/work/jobs/16876425.d/session1/608.feat"
+set feat_files(38) "/work/jobs/16948255.d/session1/608.feat"
 
 # 4D AVW data or FEAT directory (39)
-set feat_files(39) "/work/jobs/16876425.d/session2/609.feat"
+set feat_files(39) "/work/jobs/16948255.d/session2/609.feat"
 
 # 4D AVW data or FEAT directory (40)
-set feat_files(40) "/work/jobs/16876425.d/session1/610.feat"
+set feat_files(40) "/work/jobs/16948255.d/session1/610.feat"
 
 # 4D AVW data or FEAT directory (41)
-set feat_files(41) "/work/jobs/16876425.d/session2/611.feat"
+set feat_files(41) "/work/jobs/16948255.d/session2/611.feat"
 
 # 4D AVW data or FEAT directory (42)
-set feat_files(42) "/work/jobs/16876425.d/session1/612.feat"
+set feat_files(42) "/work/jobs/16948255.d/session1/612.feat"
 
 # 4D AVW data or FEAT directory (43)
-set feat_files(43) "/work/jobs/16876425.d/session2/613.feat"
+set feat_files(43) "/work/jobs/16948255.d/session2/613.feat"
 
 # 4D AVW data or FEAT directory (44)
-set feat_files(44) "/work/jobs/16876425.d/session1/614.feat"
+set feat_files(44) "/work/jobs/16948255.d/session1/614.feat"
 
 # 4D AVW data or FEAT directory (45)
-set feat_files(45) "/work/jobs/16876425.d/session2/615.feat"
+set feat_files(45) "/work/jobs/16948255.d/session2/615.feat"
 
 # 4D AVW data or FEAT directory (46)
-set feat_files(46) "/work/jobs/16876425.d/session1/616.feat"
+set feat_files(46) "/work/jobs/16948255.d/session1/616.feat"
 
 # 4D AVW data or FEAT directory (47)
-set feat_files(47) "/work/jobs/16876425.d/session1/618.feat"
+set feat_files(47) "/work/jobs/16948255.d/session1/618.feat"
 
 # 4D AVW data or FEAT directory (48)
-set feat_files(48) "/work/jobs/16876425.d/session2/619.feat"
+set feat_files(48) "/work/jobs/16948255.d/session2/619.feat"
 
 # 4D AVW data or FEAT directory (49)
-set feat_files(49) "/work/jobs/16876425.d/session2/620.feat"
+set feat_files(49) "/work/jobs/16948255.d/session2/620.feat"
 
 # 4D AVW data or FEAT directory (50)
-set feat_files(50) "/work/jobs/16876425.d/session2/621.feat"
+set feat_files(50) "/work/jobs/16948255.d/session2/621.feat"
 
 # 4D AVW data or FEAT directory (51)
-set feat_files(51) "/work/jobs/16876425.d/session1/622.feat"
+set feat_files(51) "/work/jobs/16948255.d/session1/622.feat"
 
 # 4D AVW data or FEAT directory (52)
-set feat_files(52) "/work/jobs/16876425.d/session2/623.feat"
+set feat_files(52) "/work/jobs/16948255.d/session2/623.feat"
 
 # 4D AVW data or FEAT directory (53)
-set feat_files(53) "/work/jobs/16876425.d/session1/624.feat"
+set feat_files(53) "/work/jobs/16948255.d/session1/624.feat"
 
 # 4D AVW data or FEAT directory (54)
-set feat_files(54) "/work/jobs/16876425.d/session2/625.feat"
+set feat_files(54) "/work/jobs/16948255.d/session2/625.feat"
 
 # 4D AVW data or FEAT directory (55)
-set feat_files(55) "/work/jobs/16876425.d/session1/626.feat"
+set feat_files(55) "/work/jobs/16948255.d/session1/626.feat"
 
 # 4D AVW data or FEAT directory (56)
-set feat_files(56) "/work/jobs/16876425.d/session1/627.feat"
+set feat_files(56) "/work/jobs/16948255.d/session1/627.feat"
 
 # 4D AVW data or FEAT directory (57)
-set feat_files(57) "/work/jobs/16876425.d/session2/628.feat"
+set feat_files(57) "/work/jobs/16948255.d/session2/628.feat"
 
 # 4D AVW data or FEAT directory (58)
-set feat_files(58) "/work/jobs/16876425.d/session2/629.feat"
+set feat_files(58) "/work/jobs/16948255.d/session2/629.feat"
 
 # 4D AVW data or FEAT directory (59)
-set feat_files(59) "/work/jobs/16876425.d/session1/630.feat"
+set feat_files(59) "/work/jobs/16948255.d/session1/630.feat"
 
 # 4D AVW data or FEAT directory (60)
-set feat_files(60) "/work/jobs/16876425.d/session1/631.feat"
+set feat_files(60) "/work/jobs/16948255.d/session1/631.feat"
 
 # 4D AVW data or FEAT directory (61)
-set feat_files(61) "/work/jobs/16876425.d/session2/632.feat"
+set feat_files(61) "/work/jobs/16948255.d/session2/632.feat"
 
 # Add confound EVs text file
 set fmri(confoundevs) 0

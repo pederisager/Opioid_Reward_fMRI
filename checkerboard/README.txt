@@ -3,6 +3,10 @@ Simple visual task designed to measure the potential effect of morphine on globa
 
 log:
 
+17.06.17
+- Contrasts analyzed with Mixed Effects model
+- Removed old and extraneous analysis directories
+
 28.03.17
 fMRI_unwarped added - contains topup corrected fmri files.
 topup unwarping incorporated in latest FEAT.

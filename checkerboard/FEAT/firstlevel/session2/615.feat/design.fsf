@@ -1,3 +1,4 @@
+
 # FEAT version number
 set fmri(version) 6.00
 
@@ -29,7 +30,7 @@ set fmri(featwatcher_yn) 1
 set fmri(sscleanup_yn) 0
 
 # Output directory
-set fmri(outputdir) "/work/jobs/16875595.d/615.feat"
+set fmri(outputdir) "/work/jobs/16945906.d/615.feat"
 
 # TR(s)
 set fmri(tr) 2.208000
@@ -266,13 +267,16 @@ set fmri(totalVoxels) 30912000
 set fmri(ncopeinputs) 0
 
 # 4D AVW data or FEAT directory (1)
-set feat_files(1) "/work/jobs/16875595.d/fmri_unwarped"
+set feat_files(1) "/work/jobs/16945906.d/fmri_unwarped"
 
 # Add confound EVs text file
-set fmri(confoundevs) 0
+set fmri(confoundevs) 1
+
+# Confound EVs text file for analysis 1
+set confoundev_files(1) "/work/jobs/16945906.d/headmotion_615.txt"
 
 # Subject's structural image for analysis 1
-set highres_files(1) "/work/jobs/16875595.d/3DRR_noneck_brain"
+set highres_files(1) "/work/jobs/16945906.d/3DRR_noneck_brain"
 
 # EV 1 title
 set fmri(evtitle1) "Checker"
@@ -306,7 +310,7 @@ set fmri(tempfilt_yn1) 1
 set fmri(deriv_yn1) 1
 
 # Custom EV file (EV 1)
-set fmri(custom1) "/work/jobs/16875595.d/checker.txt"
+set fmri(custom1) "/work/jobs/16945906.d/checker.txt"
 
 # Gamma sigma (EV 1)
 set fmri(gammasigma1) 3
